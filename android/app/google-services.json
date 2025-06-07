@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "548971476814",
+    "project_id": "gear-max-84b8b",
+    "storage_bucket": "gear-max-84b8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548971476814:android:9ec39fd338a7aefabe501f",
+        "android_client_info": {
+          "package_name": "Gear.Max"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548971476814-ohslcstjd7ttait00ab6bbq9dvpenr5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYkMFi-o9FHtssOUeTGjbwn8En7yLrgOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548971476814-ohslcstjd7ttait00ab6bbq9dvpenr5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548971476814:android:2c439da8b81f8b0dbe501f",
+        "android_client_info": {
+          "package_name": "com.example.fruit_hub_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548971476814-ohslcstjd7ttait00ab6bbq9dvpenr5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYkMFi-o9FHtssOUeTGjbwn8En7yLrgOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548971476814-ohslcstjd7ttait00ab6bbq9dvpenr5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
